@@ -23,13 +23,8 @@
   <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
 
-##
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedrobrgss&show_icons=true&theme=github_dark"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrobrgss&layout=compact&theme=github_dark&langs_count=8"/> 
-</div>
 
-##
+## 🤝 Conecte-se comigo
 
 <div>
   <a href="https://www.instagram.com/_pedrinbrgs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,5 +33,17 @@
 </div>
 
 ##
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedrobrgss&show_icons=true&theme=github_dark"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrobrgss&layout=compact&theme=github_dark&langs_count=8"/> 
+</div>
+
+##
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedrobrgss/Pedrobrgss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedrobrgss/Pedrobrgss/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedrobrgss/Pedrobrgss/output/github-contribution-grid-snake.svg">
+</picture>
 
 
